@@ -1,10 +1,11 @@
 @media(max-width:1200px){
-  body{
-    background-color: #f44336;
-  }
-  .fundo-video{
-    display: none;
-  }
+    /* body{
+      background-image: url(../imagens/bg.png),linear-gradient(180deg,#e70112 16%,#b1020e 76%);
+    } */
+    .fundo-video{
+      display: none;
+    }
+
 
   .container{
     flex-wrap: wrap;
