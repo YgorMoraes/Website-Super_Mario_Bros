@@ -10,15 +10,16 @@
 
 body{
   font-family: 'Catamaran', sans-serif;
-  background-image: url(../imagens/bg.png),linear-gradient(180deg,#e70112 16%,#b1020e 76%);
+  background: url(../imagens/bg.png)top 5rem right no-repeat #e70112;
 }
 
 .cabecalho{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
   padding: 2rem;
-  max-width: 1440px;
+  width: 100%;
   margin: 0px auto;
 }
 
@@ -38,7 +39,6 @@ body{
   font-size: 25px;
   padding: 10px 20px;
   border-radius: 50px;
-  
 }
 
 .cabecalho .menu a:hover{
