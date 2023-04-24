@@ -18,7 +18,7 @@
 
 Inspirado no lançamento do filme "Super Mario Bros - O Filme", o projeto consiste em um website criado para exibir informações sobre o longa. O site apresenta uma interface intuitiva e responsiva, e utiliza animações interativas para melhorar a experiência do usuário.
 
-- Website: [ygormoraes.github.io/Website-mario](https://ygormoraes.github.io/Website-mario/)
+- Website: [ygormoraes.github.io/Website-Super_Mario_Bros](https://ygormoraes.github.io/Website-Super_Mario_Bros/)
 
 ## 🚀 Tecnologias
 
@@ -38,13 +38,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  <div> 
  
- <a href="https://www.linkedin.com/in/ygormoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://em construção/" target="_blank"><img src="https://img.shields.io/badge/meu_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/ygor_moraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/ygormoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://ygormoraes.vercel.app" target="_blank"><img src="https://img.shields.io/badge/meu_portfólio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ygor_moraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ygorluizmoraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  </div> 
-
+ 
  </p>
 
 ## 💻 Autor<br>
